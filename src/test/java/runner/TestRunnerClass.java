@@ -18,7 +18,7 @@ import cucumber.api.junit.Cucumber;
 // AND: tags = {"@SmokeTest", "@RegressionTest"} execute both Smoke or Regression cases
 //To Ignore a particular test case use ~ before @, e.g. ~@SmokeTest
 
-public class TestRunner {
+public class TestRunnerClass {
 
 	
 	

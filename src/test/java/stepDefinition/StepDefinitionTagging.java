@@ -2,7 +2,7 @@ package stepDefinition;
 
 import cucumber.api.java.en.Given;
 
-public class TaggingStepDefinition {
+public class StepDefinitionTagging {
 
 	@Given("^This is a valid login test$")
 	public void this_is_a_valid_login_test() throws Throwable {
